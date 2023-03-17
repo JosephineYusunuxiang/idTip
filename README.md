@@ -8,6 +8,6 @@ idTip 全编号显示
   
   压缩包里ItemRack和ItemRackOptions两个文件夹都须放入_classic_era_的AddOns文件夹中。  
   
-  个人仓库|n https://github.com/JosephineYusunuxiang/idTip   
+  个人仓库 https://github.com/JosephineYusunuxiang/idTip   
   
-  插件作者仓库|n https://github.com/silverwind/idTip  
+  插件作者仓库 https://github.com/silverwind/idTip  

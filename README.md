@@ -6,7 +6,7 @@ idTip 全编号显示
   此版本插件已由我（玉素奴香@哈霍兰CN）汉化。 
   适配1.14.3版本游戏，其他游戏版本未知。  
   
-  压缩包里ItemRack和ItemRackOptions两个文件夹都须放入_classic_era_的AddOns文件夹中  
+  压缩包里ItemRack和ItemRackOptions两个文件夹都须放入_classic_era_的AddOns文件夹中。  
   
   个人仓库|n https://github.com/JosephineYusunuxiang/idTip   
   

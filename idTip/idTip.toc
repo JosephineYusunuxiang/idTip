@@ -1,0 +1,11 @@
+## Interface: 11403
+## Title: idTip
+## Version: 9.0.2
+## Notes: Adds IDs to the ingame tooltips
+## Author: silverwind
+idTip.lua
+
+## Title-zhCN: |cffffffff[玉素]|r idTip 全编号显示
+## Author-zhCN: JosephineYusunuxiang
+## Notes-zhCN: |cff32CD99|n专门的在鼠标tooltips里显示各种ID号码的插件|n|n包括物品、法术、NPC、任务、天赋、宏位置、|n附魔、成就、货币、宝石、坐骑、宠物、宠物种族、|n套装、外观、神器能量等多钟游戏内元素。|n|n|n此版本插件已由我（玉素奴香@哈霍兰CN）汉化|n适配1.14.3版本游戏，其他游戏版本未知。|n|n 个人仓库|n https://github.com/JosephineYusunuxiang/idTip |n|n 插件作者仓库|n https://github.com/silverwind/idTip |r
+
